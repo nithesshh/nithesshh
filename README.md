@@ -1,20 +1,17 @@
 # 👋 Hi, I'm Nithesh K
 
-### ☕ Java Full Stack Developer | Spring Boot | React | AI & Computer Vision
+### ☕ Java Full Stack Developer | Spring Boot | React
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Real-World+Projects;Always+Learning+%26+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Real-World+Applications;Always+Learning+%26+Improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:connectwithnithesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Connect%20with%20me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Nithesh-19">
-    <img src="https://img.shields.io/badge/GitHub-Nithesh--19-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Nithesh--19-black?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -22,115 +19,55 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Nithesh K**, a Computer Science Engineering graduate from Chennai, India, currently focused on building my career as a **Java Full Stack Developer**.
+I'm a **Computer Science Engineering graduate** from Chennai, India, focused on becoming a **Java Full Stack Developer**.
 
-I enjoy understanding how applications work from the frontend to the backend — from creating user interfaces with React to building REST APIs with Spring Boot and connecting applications to MySQL databases.
+I enjoy building applications and understanding how the different layers of a system work together — from a React interface to Spring Boot REST APIs and database operations.
 
-```java
-public class NitheshK {
-
-    String name = "Nithesh K";
-    String location = "Chennai, Tamil Nadu, India";
-    String degree = "B.E. Computer Science & Engineering";
-    String graduation = "2026";
-
-    String[] primaryStack = {
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "MySQL",
-        "JPA",
-        "Hibernate",
-        "React",
-        "JavaScript"
-    };
-
-    String[] currentlyLearning = {
-        "Advanced Spring Boot",
-        "Spring Data JPA",
-        "React",
-        "AI & Computer Vision",
-        "System Design"
-    };
-
-    String goal = "Build reliable applications and keep improving.";
-
-    public void motto() {
-        System.out.println("Learn. Build. Debug. Improve. 🚀");
-    }
-}
-```
+Currently strengthening my skills in **Core Java, Spring Boot, React, SQL, JPA, Hibernate, and backend development** while building real-world projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☕ Languages
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
 </p>
 
-### 🚀 Backend
+**Java • Spring Boot • REST APIs • JPA • Hibernate**
+
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-* Spring Boot
-* REST APIs
-* Spring Data JPA
-* Hibernate
-* Dependency Injection
-* MVC Architecture
+**HTML5 • CSS3 • JavaScript • React**
 
-### ⚛️ Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
-</p>
-
-* React
-* JavaScript
-* HTML5
-* CSS3
-* REST API Integration
-
-### 🗄️ Database
+### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-* MySQL
-* SQL
-* Database Design
-* CRUD Operations
+**MySQL • SQL**
 
-### 🤖 AI / Computer Vision
+### AI & Computer Vision
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,opencv" />
 </p>
 
-* OpenCV
-* ONNX Runtime
-* Deep Learning Model Integration
-* Image Processing
-* AI-generated Content Detection
+**OpenCV • ONNX Runtime • Image Processing • AI Model Integration**
 
-### 🔧 Tools & Platforms
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
 </p>
 
-* Git
-* GitHub
-* IntelliJ IDEA
-* VS Code
-* Postman
-* MySQL Workbench
+**Git • GitHub • IntelliJ IDEA • VS Code • Postman**
 
 ---
 
@@ -138,37 +75,34 @@ public class NitheshK {
 
 ### 🤖 AI-Generated Image & Video Detection System
 
-**Java • Spring Boot • React • MySQL • DJL • ONNX Runtime • OpenCV**
+**Java • Spring Boot • React • MySQL • DJL • ONNX Runtime**
 
-A full-stack application designed to analyze images and identify whether the uploaded content is **AI-generated or human-created**.
+A full-stack application that analyzes uploaded images and predicts whether the content is **AI-generated or human-created**.
 
-**Key Features**
+**Highlights**
 
-* 📤 Image upload through React frontend
-* 🔗 REST API communication between frontend and backend
-* 🧠 AI model inference using ONNX Runtime
-* 🖼️ Image preprocessing before model inference
-* 📊 Artificial vs Human prediction
-* 📈 Confidence percentage for predictions
-* 🗄️ Spring Boot backend with database integration
-* ⚛️ React-based user interface
+* Image upload through a React frontend
+* REST API communication with Spring Boot
+* Image preprocessing and model inference
+* ONNX-based AI model integration
+* Artificial vs Human prediction
+* Confidence percentage for predictions
+* MySQL database integration
 
 **Architecture**
 
 ```text
-React Frontend
-      ↓
+React
+  ↓
 REST API
-      ↓
-Spring Boot Backend
-      ↓
+  ↓
+Spring Boot
+  ↓
 Image Processing
-      ↓
-ONNX AI Model
-      ↓
+  ↓
+AI Model
+  ↓
 Prediction
-      ↓
-React Result
 ```
 
 ---
@@ -177,177 +111,82 @@ React Result
 
 **Java • Spring Boot • REST APIs • MySQL**
 
-A web-based system designed to simplify student management and examination hall seating allocation.
+A web-based application designed to manage students, examination halls, and seating allocation.
 
-**Key Features**
+**Highlights**
 
-* 👨‍🎓 Student management
-* 🏫 Examination hall management
-* 🪑 Seating allocation logic
-* 🔗 REST API-based backend
-* 🗄️ MySQL database
-* ⚙️ Spring Boot backend
+* Student management
+* Examination hall management
+* Seating allocation logic
+* REST API-based backend
+* MySQL database integration
+* CRUD operations
 
 ---
 
-## 📚 What I'm Currently Learning
+### 👁️ VisionGuard-AI — Team Project
+
+**Python • OpenCV • Computer Vision**
+
+A team project focused on real-time video analysis, face recognition, and intrusion detection.
+
+**Team Contribution**
+
+Worked as part of a student development team on the implementation and integration of the project components.
+
+> This project was developed collaboratively with my batchmates.
+
+---
+
+## 🌱 Currently Learning
 
 ```text
-☕ Java
- ├── OOP
- ├── Collections
- ├── Data Structures
- └── Problem Solving
-
-🚀 Spring Boot
- ├── REST APIs
- ├── Spring Data JPA
- ├── Hibernate
- ├── Dependency Injection
- └── Backend Architecture
-
-⚛️ React
- ├── Components
- ├── Props & State
- ├── Hooks
- ├── API Integration
- └── Modern React Patterns
-
-🤖 AI / Computer Vision
- ├── Image Processing
- ├── OpenCV
- ├── ONNX Models
- └── AI Content Detection
-
-🏗️ Software Development
- ├── Git & GitHub
- ├── Debugging
- ├── API Design
- └── System Design Fundamentals
+☕ Core Java & DSA
+🚀 Spring Boot & REST APIs
+🗄️ JPA & Hibernate
+⚛️ React & API Integration
+🧠 AI / Computer Vision
+🔧 Git & GitHub
+🏗️ Backend Architecture
 ```
 
 ---
 
-## 💼 Career Focus
-
-I'm currently looking for opportunities in:
-
-* 💻 Java Developer
-* 🚀 Java Full Stack Developer
-* 🌱 Software Developer — Fresher
-* ⚙️ Backend Developer
-* 🌐 Full Stack Developer
-
-I'm particularly interested in opportunities where I can work with **Java, Spring Boot, REST APIs, databases, and modern frontend technologies** while continuing to grow as a software developer.
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithesh-19&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithesh-19&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithesh-19&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithesh-19&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🎯 What I'm Looking For
+
+I'm interested in **entry-level software development opportunities**, particularly roles involving:
+
+**Java • Spring Boot • Backend Development • Full Stack Development • REST APIs • MySQL**
+
+I'm looking forward to working on real-world applications, learning from experienced developers, and continuously improving my engineering skills.
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nithesh-19&theme=tokyonight&hide_border=true" />
-</p>
+  <a href="mailto:connectwithnithesh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-connectwithnithesh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nithesh-19/Nithesh-19/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🎯 My Development Journey
-
-```text
-2024
- │
- ├── Learned Programming Fundamentals
- ├── Java & Python
- └── Web Development Basics
-       │
-2025
- │
- ├── SQL & MySQL
- ├── Object-Oriented Programming
- ├── HTML / CSS / JavaScript
- └── Started Backend Development
-       │
-2026
- │
- ├── Spring Boot
- ├── REST APIs
- ├── JPA & Hibernate
- ├── React
- ├── Git & GitHub
- └── AI / Computer Vision
-       │
-       ▼
-Building real-world full-stack applications 🚀
-```
-
----
-
-## 💡 Development Philosophy
-
-> **Learn the concept. Build the feature. Break the code. Debug the problem. Understand why. Repeat.**
-
-I believe becoming a good developer is not about memorizing code — it's about understanding **why the code works, how different technologies communicate, and how to solve problems when things don't work.**
-
----
-
-## 📈 Goals
-
-* [ ] Become job-ready as a Java Full Stack Developer
-* [ ] Strengthen Core Java & DSA
-* [ ] Build production-style Spring Boot applications
-* [ ] Improve React development skills
-* [ ] Learn advanced database concepts
-* [ ] Understand system design fundamentals
-* [ ] Build and deploy more real-world projects
-* [ ] Contribute to open-source projects
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-
-<a href="mailto:connectwithnithesh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-connectwithnithesh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Nithesh-19">
-  <img src="https://img.shields.io/badge/GitHub-Nithesh--19-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Nithesh%20K-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <a href="https://github.com/Nithesh-19">
+    <img src="https://img.shields.io/badge/GitHub-Nithesh--19-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
 
-### 🚀 Build. Learn. Improve.
-
-**"Learn. Build. Debug. Improve."**
+### ☕ Code • Learn • Build • Improve
 
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nithesh-19&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
