@@ -1,6 +1,11 @@
-# NITHESH K
+<!-- ================= ANIMATED HEADER ================= -->
+<div align="center">
 
-### Java Full Stack Developer | Building Practical & User-Friendly Applications
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NITHESH%20K&fontSize=64&fontAlignY=38&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=22" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Practical+%26+User-Friendly+Applications;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+MySQL;Learning+Backend+%26+System+Design;Open+to+Entry-Level+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 📍 Chennai, India
 
@@ -16,9 +21,13 @@
   </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=Nithesh-19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-## 👨‍💻 About Me
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 👨‍💻 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Computer Science Engineering graduate focused on **Java Full Stack Development**.
 
@@ -34,7 +43,7 @@ Currently focusing on:
 * Backend Development
 * Git & GitHub
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -86,7 +95,7 @@ Currently focusing on:
 
 **Git • GitHub • IntelliJ IDEA • VS Code • Postman**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -142,7 +151,29 @@ A collaborative computer vision project developed with batchmates for real-time 
 * Intrusion detection
 * Computer vision-based monitoring
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nithesh-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithesh-19&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithesh-19&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</div>
+
+<!--
+  OPTIONAL: Snake animation. Needs a GitHub Action (Platane/snk) that
+  publishes to an "output" branch. Once that is set up, uncomment:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nithesh-19/Nithesh-19/output/github-contribution-grid-snake-dark.svg" />
+</div>
+-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📚 Currently Learning
 
@@ -154,8 +185,6 @@ A collaborative computer vision project developed with batchmates for real-time 
 * Backend Architecture
 * System Design Fundamentals
 * Git & GitHub
-
----
 
 ## 🎯 Career Focus
 
@@ -169,7 +198,7 @@ Currently looking for **entry-level opportunities** in:
 
 Interested in building reliable applications, learning new technologies, and growing as a software developer.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Connect With Me
 
@@ -179,6 +208,13 @@ Interested in building reliable applications, learning new technologies, and gro
 
 💻 **GitHub:** https://github.com/Nithesh-19
 
----
+<!-- ================= ANIMATED FOOTER ================= -->
+<div align="center">
 
-### 💡 Build • Learn • Improve
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=F7B93E&center=true&vCenter=true&width=400&lines=Build+%F0%9F%94%A8;Learn+%F0%9F%93%96;Improve+%F0%9F%9A%80" alt="Build Learn Improve" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
