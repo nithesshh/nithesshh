@@ -1,38 +1,45 @@
-# 👋 Hi, I'm Nithesh K
+# NITHESH K
 
-### ☕ Java Full Stack Developer | Spring Boot | React
+### Full Stack Developer | Building Efficient and User-Friendly Applications
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Real-World+Applications;Always+Learning+%26+Improving" alt="Typing SVG" />
-</p>
+📍 Chennai, India
 
-<p align="center">
+<p align="left">
   <a href="mailto:connectwithnithesh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Nithesh-19">
     <img src="https://img.shields.io/badge/GitHub-Nithesh--19-black?style=flat-square&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/nithesh-k/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering graduate** from Chennai, India, focused on becoming a **Java Full Stack Developer**.
+I'm a **Computer Science Engineering graduate** from Chennai, India, focused on building my career in **Full Stack Development**.
 
-I enjoy building applications and understanding how the different layers of a system work together — from a React interface to Spring Boot REST APIs and database operations.
+I enjoy developing applications across both frontend and backend, with a particular interest in **Java, Spring Boot, React, REST APIs, and MySQL**.
 
-Currently strengthening my skills in **Core Java, Spring Boot, React, SQL, JPA, Hibernate, and backend development** while building real-world projects.
+Currently, I'm strengthening my development skills by building real-world projects, improving my understanding of backend architecture, and learning how different technologies work together to create complete applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+</p>
+
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
 **Java • Spring Boot • REST APIs • JPA • Hibernate**
@@ -40,10 +47,10 @@ Currently strengthening my skills in **Core Java, Spring Boot, React, SQL, JPA, 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-**HTML5 • CSS3 • JavaScript • React**
+**React • JavaScript • HTML5 • CSS3**
 
 ### Database
 
@@ -79,30 +86,30 @@ Currently strengthening my skills in **Core Java, Spring Boot, React, SQL, JPA, 
 
 A full-stack application that analyzes uploaded images and predicts whether the content is **AI-generated or human-created**.
 
-**Highlights**
+**Key Features**
 
-* Image upload through a React frontend
-* REST API communication with Spring Boot
-* Image preprocessing and model inference
-* ONNX-based AI model integration
+* Image upload through React
+* REST API integration with Spring Boot
+* Image preprocessing
+* AI model inference using ONNX Runtime
 * Artificial vs Human prediction
-* Confidence percentage for predictions
+* Prediction confidence display
 * MySQL database integration
 
-**Architecture**
+**Application Flow**
 
 ```text
-React
-  ↓
-REST API
-  ↓
-Spring Boot
-  ↓
+React Frontend
+      ↓
+Spring Boot REST API
+      ↓
 Image Processing
-  ↓
+      ↓
 AI Model
-  ↓
+      ↓
 Prediction
+      ↓
+Result displayed in React
 ```
 
 ---
@@ -111,9 +118,9 @@ Prediction
 
 **Java • Spring Boot • REST APIs • MySQL**
 
-A web-based application designed to manage students, examination halls, and seating allocation.
+A web-based application designed to simplify student management and examination hall seating allocation.
 
-**Highlights**
+**Key Features**
 
 * Student management
 * Examination hall management
@@ -124,58 +131,49 @@ A web-based application designed to manage students, examination halls, and seat
 
 ---
 
-### 👁️ VisionGuard-AI — Team Project
+### 👁️ VisionGuard-AI
 
-**Python • OpenCV • Computer Vision**
+**Team Project • Python • OpenCV • Computer Vision**
 
-A team project focused on real-time video analysis, face recognition, and intrusion detection.
+A collaborative project developed with my batchmates for real-time video analysis, face recognition, and intrusion detection.
 
-**Team Contribution**
+The system processes live video streams and can trigger alerts when unknown individuals are detected.
 
-Worked as part of a student development team on the implementation and integration of the project components.
-
-> This project was developed collaboratively with my batchmates.
+> Developed collaboratively as a team project.
 
 ---
 
 ## 🌱 Currently Learning
 
-```text
-☕ Core Java & DSA
-🚀 Spring Boot & REST APIs
-🗄️ JPA & Hibernate
-⚛️ React & API Integration
-🧠 AI / Computer Vision
-🔧 Git & GitHub
-🏗️ Backend Architecture
-```
+* ☕ Advanced Core Java & Data Structures
+* 🚀 Spring Boot & REST API Development
+* 🗄️ Spring Data JPA & Hibernate
+* ⚛️ React & API Integration
+* 🧠 AI & Computer Vision
+* 🏗️ Backend Architecture & System Design
+* 🔧 Git & GitHub
 
 ---
 
-## 📊 GitHub
+## 💼 Career Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithesh-19&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithesh-19&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+I'm looking for **entry-level opportunities in software development**, with a particular interest in:
 
----
+**Java Development • Full Stack Development • Backend Development • Spring Boot • REST APIs**
 
-## 🎯 What I'm Looking For
-
-I'm interested in **entry-level software development opportunities**, particularly roles involving:
-
-**Java • Spring Boot • Backend Development • Full Stack Development • REST APIs • MySQL**
-
-I'm looking forward to working on real-world applications, learning from experienced developers, and continuously improving my engineering skills.
+I'm interested in working on real-world applications, learning from experienced developers, and continuously improving my technical skills.
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:connectwithnithesh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-connectwithnithesh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/nithesh-k/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nithesh%20K-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/Nithesh-19">
@@ -187,6 +185,6 @@ I'm looking forward to working on real-world applications, learning from experie
 
 <p align="center">
 
-### ☕ Code • Learn • Build • Improve
+**Build • Learn • Improve**
 
 </p>
