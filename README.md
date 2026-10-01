@@ -1,18 +1,18 @@
 # NITHESH K
 
-### Full Stack Developer | Building Efficient and User-Friendly Applications
+### Java Full Stack Developer | Building Practical & User-Friendly Applications
 
 📍 Chennai, India
 
-<p align="left">
+<p>
   <a href="mailto:connectwithnithesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Nithesh-19">
-    <img src="https://img.shields.io/badge/GitHub-Nithesh--19-black?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nithesh-k/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -20,39 +20,49 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering graduate** from Chennai, India, focused on building my career in **Full Stack Development**.
+Computer Science Engineering graduate focused on **Java Full Stack Development**.
 
-I enjoy developing applications across both frontend and backend, with a particular interest in **Java, Spring Boot, React, REST APIs, and MySQL**.
+I enjoy building practical applications using **Java, Spring Boot, React, and MySQL**, while continuously improving my problem-solving and backend development skills.
 
-Currently, I'm strengthening my development skills by building real-world projects, improving my understanding of backend architecture, and learning how different technologies work together to create complete applications.
+Currently focusing on:
+
+* Java Full Stack Development
+* Spring Boot & REST APIs
+* Spring Data JPA & Hibernate
+* React & API Integration
+* AI & Computer Vision
+* Backend Development
+* Git & GitHub
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### ☕ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-### Backend
+**Java**
+
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
-**Java • Spring Boot • REST APIs • JPA • Hibernate**
+**Spring Boot • REST APIs • JPA • Hibernate**
 
-### Frontend
+### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
-**React • JavaScript • HTML5 • CSS3**
+**HTML5 • CSS3 • JavaScript • React**
 
-### Database
+### 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -60,7 +70,7 @@ Currently, I'm strengthening my development skills by building real-world projec
 
 **MySQL • SQL**
 
-### AI & Computer Vision
+### 🤖 AI & Computer Vision
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,opencv" />
@@ -68,7 +78,7 @@ Currently, I'm strengthening my development skills by building real-world projec
 
 **OpenCV • ONNX Runtime • Image Processing • AI Model Integration**
 
-### Tools
+### 🔧 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
@@ -80,37 +90,25 @@ Currently, I'm strengthening my development skills by building real-world projec
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Generated Image & Video Detection System
+### 🖼️ AI-Generated Image & Video Detection System
 
 **Java • Spring Boot • React • MySQL • DJL • ONNX Runtime**
 
-A full-stack application that analyzes uploaded images and predicts whether the content is **AI-generated or human-created**.
+A full-stack application designed to analyze uploaded images and identify whether the content is **AI-generated or human-created**.
 
-**Key Features**
+**Key Features:**
 
-* Image upload through React
-* REST API integration with Spring Boot
-* Image preprocessing
+* Image upload through React frontend
+* REST API communication with Spring Boot
+* Image preprocessing and normalization
 * AI model inference using ONNX Runtime
 * Artificial vs Human prediction
-* Prediction confidence display
-* MySQL database integration
+* Confidence percentage calculation
+* MySQL integration for application data
 
-**Application Flow**
+**Application Flow:**
 
-```text
-React Frontend
-      ↓
-Spring Boot REST API
-      ↓
-Image Processing
-      ↓
-AI Model
-      ↓
-Prediction
-      ↓
-Result displayed in React
-```
+`React → Spring Boot REST API → Image Processing → AI Model → Prediction → Result`
 
 ---
 
@@ -118,16 +116,16 @@ Result displayed in React
 
 **Java • Spring Boot • REST APIs • MySQL**
 
-A web-based application designed to simplify student management and examination hall seating allocation.
+A web-based application for managing students, examination halls, and seating allocation.
 
-**Key Features**
+**Key Features:**
 
 * Student management
 * Examination hall management
-* Seating allocation logic
-* REST API-based backend
-* MySQL database integration
+* Seating allocation
 * CRUD operations
+* REST API integration
+* MySQL database integration
 
 ---
 
@@ -135,56 +133,52 @@ A web-based application designed to simplify student management and examination 
 
 **Team Project • Python • OpenCV • Computer Vision**
 
-A collaborative project developed with my batchmates for real-time video analysis, face recognition, and intrusion detection.
+A collaborative computer vision project developed with batchmates for real-time video analysis.
 
-The system processes live video streams and can trigger alerts when unknown individuals are detected.
+**Key Features:**
 
-> Developed collaboratively as a team project.
-
----
-
-## 🌱 Currently Learning
-
-* ☕ Advanced Core Java & Data Structures
-* 🚀 Spring Boot & REST API Development
-* 🗄️ Spring Data JPA & Hibernate
-* ⚛️ React & API Integration
-* 🧠 AI & Computer Vision
-* 🏗️ Backend Architecture & System Design
-* 🔧 Git & GitHub
+* Real-time video processing
+* Face recognition
+* Intrusion detection
+* Computer vision-based monitoring
 
 ---
 
-## 💼 Career Focus
+## 📚 Currently Learning
 
-I'm looking for **entry-level opportunities in software development**, with a particular interest in:
-
-**Java Development • Full Stack Development • Backend Development • Spring Boot • REST APIs**
-
-I'm interested in working on real-world applications, learning from experienced developers, and continuously improving my technical skills.
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:connectwithnithesh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-connectwithnithesh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/nithesh-k/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nithesh%20K-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Nithesh-19">
-    <img src="https://img.shields.io/badge/GitHub-Nithesh--19-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+* Advanced Core Java & DSA
+* Spring Boot & REST API Development
+* Spring Data JPA & Hibernate
+* React & API Integration
+* AI & Computer Vision
+* Backend Architecture
+* System Design Fundamentals
+* Git & GitHub
 
 ---
 
-<p align="center">
+## 🎯 Career Focus
 
-**Build • Learn • Improve**
+Currently looking for **entry-level opportunities** in:
 
-</p>
+* Java Development
+* Java Full Stack Development
+* Backend Development
+* Spring Boot Development
+* Software Development
+
+Interested in building reliable applications, learning new technologies, and growing as a software developer.
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** [connectwithnithesh@gmail.com](mailto:connectwithnithesh@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/nithesh-k/
+
+💻 **GitHub:** https://github.com/Nithesh-19
+
+---
+
+### 💡 Build • Learn • Improve
